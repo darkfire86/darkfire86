@@ -1,3 +1,3 @@
 # who am i 
 
-<img align = "center" src="ANI IN GITHUB.gif"> 
+<img align = "center" src="ANI IN GITHUB.gif" alt = "image">
