@@ -12,5 +12,5 @@
 
 <h2>🎮Ways to contact me📱-📞</h2>
 
-<a href="https://t.me/darkfireq"><img src="https://github.com/darkfire86/darkfire86/blob/main/image/icons8-telegram-app-64.png?raw=true"></a>      <a href="https://github.com/darkfire86"><img src="https://github.com/darkfire86/darkfire86/blob/main/image/icons8-github-50.png?raw=true"></a>      <a href="https://www.instagram.com/darkfire0q"><img src="https://github.com/darkfire86/darkfire86/blob/main/image/icons8-instagram-64.png?raw=true"></a>
+<a href="https://t.me/darkfireq"><img src="https://github.com/darkfire86/darkfire86/blob/main/image/icons8-telegram-app-64.png?raw=true"></a>      <a href="https://github.com/darkfire86"><img src="https://github.com/darkfire86/darkfire86/blob/main/image/icons8-github-64.png?raw=true"></a>      <a href="https://www.instagram.com/darkfire0q"><img src="https://github.com/darkfire86/darkfire86/blob/main/image/icons8-instagram-64.png?raw=true"></a> <img src="">
 
